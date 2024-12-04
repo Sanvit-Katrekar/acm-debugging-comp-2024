@@ -32,6 +32,7 @@
 
 ## Rules
 
+* Do NOT rewrite the code, just try editing the code available
 * Use of AI is strictly not allowed
 * Full internet access is allowed
 * Submit before the deadline to get points
