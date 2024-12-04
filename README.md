@@ -26,8 +26,17 @@
 ## Submission Guidelines
 1. Fork the repository from GitHub Classroom
 2. Fix the bugs in each question
-3. Commit and push your solutions
-4. Automated tests will evaluate your submissions
+3. Write up a small explanation on fixes you made / issues debugged in the `SOLUTIONS.md` file
+5. Commit and push your solutions
+6. Automated tests will evaluate your submissions
+
+## Rules
+
+* Use of AI is strictly not allowed
+* Full internet access is allowed
+* Submit before the deadline to get points
+* In case of a tie in points:
+    * Participant with the earliest commit wins over the other.
 
 ## Deadline
 December 2, 2024, 1:29 AM
